@@ -6,12 +6,12 @@
         "en": "EmbyServer package for YunoHost.",
         "fr": "EmbyServer pour YunoHost."
     },
-    "version": "4.7.2.0",
+    "version": "4.7.3.0",
     "url": "https://emby.media/",
     "license": "non-free",
     "maintainer": {
-        "name": "liberodark",
-        "email": "liberodark@gmail.com"
+        "name": "vibrantleaf",
+        "email": "julia@volcanocoffee.monster"
     },
     "requirements": {
         "yunohost": ">= 2.7.2"
