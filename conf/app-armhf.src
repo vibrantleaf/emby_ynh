@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.2.0/emby-server-netgear_4.7.2.0_armhf.deb
-SOURCE_SUM=0c730308ba9cd21b11c92d3c2b250421e0af20ae5dc478a8501fbbda6fc561a1d9805111cd587489328fc8a6c9427646f3f45bad597893c5fa9ee187e86368b8
+SOURCE_URL=https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.3.0/emby-server-deb_4.7.3.0_armhf.deb
+SOURCE_SUM=c827a8264ef74bdc9bd8bc026408c4ea0826574e516987ae842b1cc57285d86fef2712f76b3853d8f9ff603cdce6ec4cf88680314ac84a1c768c35e7396e2fe1
 SOURCE_SUM_PRG=sha512sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=false
