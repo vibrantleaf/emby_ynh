@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.3.0/emby-server-deb_4.7.3.0_armhf.deb
-SOURCE_SUM=c827a8264ef74bdc9bd8bc026408c4ea0826574e516987ae842b1cc57285d86fef2712f76b3853d8f9ff603cdce6ec4cf88680314ac84a1c768c35e7396e2fe1
+SOURCE_URL= https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.4.0/emby-server-deb_4.7.4.0_armhf.deb
+SOURCE_SUM=c981ee44db63d621567f76a7d7ecabd6b026a94ef5abead4a98133540e0a28e3b6e62d2a1c31d2c4d2aa8efc728b2f9440e2c59dbac79d8c86713027837d8ff8
 SOURCE_SUM_PRG=sha512sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=false
