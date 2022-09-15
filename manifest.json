@@ -10,8 +10,8 @@
     "url": "https://emby.media/",
     "license": "non-free",
     "maintainer": {
-        "name": "liimee",
-        "email": ""
+        "name": "vibrantleaf",
+        "email": "julia@volcanocoffee.monster"
     },
     "requirements": {
         "yunohost": ">= 2.7.2"
