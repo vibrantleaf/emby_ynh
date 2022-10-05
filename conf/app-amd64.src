@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.6.0/emby-server-deb_4.7.6.0_amd64.deb
-SOURCE_SUM=cc7197dcfffa149845ab5751bdc20bed2fa895d3b2caac5269ae8d422af96f0e26cc32578de9ed5e692e46eea43f9c33898314a05e288613e3c59bab481cc443
+SOURCE_URL=https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.8.0/emby-server-deb_4.7.8.0_amd64.deb
+SOURCE_SUM=467b69a6a817599031050030e40527ea81d0f7cbb9b630b7cb756f1529284a690fa895a4e1123d753fb9f0c49ab2dbceb14afd16199786bc06747c4958cbd64c
 SOURCE_SUM_PRG=sha512sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=false
