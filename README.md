@@ -23,4 +23,4 @@ Current emby version shiped in this package [link](https://github.com/vibrantlea
 
 
 ## License
-Emby server is a non free apps. More info here: https://emby.media/terms.html
+Emby server is a non free app. More info here: https://emby.media/terms.html
